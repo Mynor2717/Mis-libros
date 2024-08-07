@@ -1,0 +1,165 @@
+[
+    
+        {
+            "id": 1,
+            "titulo": "La Sombra sobre insmmouth",
+            "portada": "./images/La sombra.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1931 - 1936",
+            "sinopsis": "Un estudiante de viaje que está haciendo un recorrido para comprar antigüedades en Nueva Inglaterra,va hacia el puerto de Innsmouth. Allí interactúa con extrañas personas del pueblo y es testigo de eventos perturbadores.",
+            "enlace": "#"
+        },
+        {
+            "id": 2,
+            "titulo": "La cosa en el umbral",
+            "portada": "./images/Umbral1.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1933",
+            "sinopsis": "La cosa en el umbral es una historia corta de terror del escritor estadounidense H. P. Lovecraft, formando parte del universo de los mitos de Cthulhu, El relato nos habla de Edward Derby, un extraño nigromante casado ya mayor con una mujer tan bella como misteriosa, Asenath. El narrador se dedicará a desgranar la personalidad de Edward y a explicarnos los motivos de su boda y su paulatina degradación física y psicológica.",
+            "enlace": "https://web.seducoahuila.gob.mx/biblioweb/upload/Lovecraft,%20H.P.%20-%20El%20Ser%20En%20El%20Umbral.pdf"
+
+        },
+        {
+            "id": 3,
+            "titulo": "La Tumba",
+            "portada": "./images/LaTumba.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1922",
+            "sinopsis": "La Tumba narra la historia de Jervas Dudley, quien descubre de niño el mausoleo de la familia Hyde, cuya mansión se quemó hace años. Tras intentar abrir el mausoleo sin éxito, toma la costumbre de dormir junto a él.",
+            "enlace": "#"
+        },
+        {
+            "id": 4,
+            "titulo": "El sabueso",
+            "portada": "./images/ElSabueso.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1931 - 1936",
+            "sinopsis": "Traumatizado por la muerte atroz de su amigo, un hombre recuerda la sucesión de acontecimientos que lo han llevado al borde de la muerte.",
+            "enlace": "#"
+        },
+        {
+            "id": 5,
+            "titulo": "Dagon",
+            "portada": "./images/Dagon.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1917",
+            "sinopsis": "ahonda en el miedo a lo desconocido y lo oculto tras las profundidades submarinas, confundiendo sueño y realidad con terrores acuáticos.",
+            "enlace": "#"
+        },
+        {
+            "id": 6,
+            "titulo": "El arbol",
+            "portada": "./images/ElArbol.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1931 - 1936",
+            "sinopsis": "El árbol (título original en inglés: The Tree) es un relato macabro del escritor norteamericano de terror H. P. Lovecraft. Ambientada en la antigua Grecia",
+            "enlace": "#"
+        },
+        {
+            "id": 7,
+            "titulo": "La Descendiente",
+            "portada": "./images/Descendiente.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1938",
+            "sinopsis": "Como cualquier relato en el que aparece, el Necronomicón se hace con el protagonismo de este breve texto.Mención tras mención, el ficticio texto cobra una terrible existencia creando el caos, locura y muerte allí por donde aparece.",
+            "enlace": "#"
+        },
+        {
+            "id": 8,
+            "titulo": "Aire Frio",
+            "portada": "./images/Aire.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1926 - 1928",
+            "sinopsis": "Ambientado en la ciudad de Nueva York en 1923, Aire frío cuenta la historia de un hombre que arrienda una modesta habitación en una antigua mansión venida a menos, habitada mayormente por personas de origen hispano.",
+            "enlace": "#"
+        },
+        {
+            "id": 9,
+            "titulo": "Polaris",
+            "portada": "./images/Polaris.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1918",
+            "sinopsis": "Transportado por la Estrella Polar, un individuo sueña con la ciudad de Olathoë, en la meseta de Sarkis, entre los picos Noton y Kadiphonek. Allí, el es un soldado enfermizo que ocupa el rol de vigía, dada su excepcional vista, siendo, además, amigo del comandante Alos. Alertados por el avance de los inutos que marchaban sobre la frontera de Lomar, con lo que se preparan para la batalla. Sin embargo, cuando se acerca el momento decisivo, el narrador desfallece, ante la mirada de la Estrella Polar. Y, despertando en su hogar, se da a entender que todo habría sido un sueño, aunque no sin mantener una cierta ambigüedad, propia de los relatos oniristas.",
+            "enlace": "https://web.seducoahuila.gob.mx/biblioweb/upload/Lovecraft,%20H.P.%20-%20Polaris.pdf"
+        },
+        {
+            "id": 10,
+            "titulo": "El testimonio de Randolph Carter",
+            "portada": "./images/Carter.jpg",
+            "autor": "Lovecraft",
+            "publicado": "The Vagrant",
+            "fecha": "1919",
+            "sinopsis": "Cuenta un evento traumático en la vida de Randolph Carter, un estudiante de lo oculto que representa libremente al propio Lovecraft. Es la primera historia en la que aparece el personaje de Carter. Forma parte del ciclo onírico, basándose en particular en un inquietante sueño de Lovecraft.",
+            "enlace": "#"
+        },
+        {
+            "id": 11,
+            "titulo": "En Busca de la Ignota Kadath",
+            "portada": "./images/Kadath.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1931 - 1936",
+            "sinopsis": " Las visiones oníricas de la esplendorosa y brillante ciudad de Kadath, hace que Randolph Carter realice un viaje astral para adentrarse en el particular mundo de magia y fantasía, donde el mal estará siempre presente. Otra gran adaptación de terror y mistero de Cullbard.",
+            "enlace": "https://hplovecraft.fandom.com/es/wiki/La_b%C3%BAsqueda_on%C3%ADrica_de_la_desconocida_Kadath"
+        },
+        {
+            "id": 12,
+            "titulo": "A Traves de las Puertas",
+            "portada": "./images/EnBusca.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1931 - 1936",
+            "sinopsis": "Un estudiante de viaje que está haciendo un recorrido para comprar antigüedades en Nueva Inglaterra,va hacia el puerto de Innsmouth. Allí interactúa con extrañas personas del pueblo y es testigo de eventos perturbadores.",
+            "enlace": "#"
+        },
+        {
+            "id": 13,
+            "titulo": "La Extrana casa en la Niebla",
+            "portada": "./images/Casa.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1931 - 1936",
+            "sinopsis": "Thomas Olney, profesor de filosofía de una cercana universidad, su esposa y sus hijos visitan Kingsport, un pequeño y antiguo pueblo a orillas del océano. Olney advierte que en la cima de un alto acantilado existe una casa, la cual despierta su curiosidad por su ubicación y aislamiento. Es extraña, antigua y se emplaza solitaria a una gran altura, sobre el borde del risco. Durante generaciones, la casa despertó el temor y la inquietud de los pobladores y ninguno recuerda o conoce a nadie que la haya visitado. Finalmente, Olney decide trepar el risco y llegar hasta la casa. Allí advierte que la única puerta de acceso a la construcción se abre directamente sobre el acantilado, como si sus habitantes fueran seres alados. Luego de un encuentro sobrenatural y extrañas vivencias, Olney regresa al día siguiente a Kingsport. Su personalidad ha cambiado, parece haber dejado parte de su espíritu en la extraña vivienda.",
+            "enlace": "https://web.seducoahuila.gob.mx/biblioweb/upload/Lovecraft,%20H.P.%20-%20La%20Extra%C3%B1a%20Casa%20En%20La%20Niebla.pdf"
+        }, 
+        {
+            "id": 14,
+            "titulo": "A Traves de las Puertas",
+            "portada": "./images/EnBusca.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1931 - 1936",
+            "sinopsis": "Un estudiante de viaje que está haciendo un recorrido para comprar antigüedades en Nueva Inglaterra,va hacia el puerto de Innsmouth. Allí interactúa con extrañas personas del pueblo y es testigo de eventos perturbadores.",
+            "enlace": "#"
+        },
+        {
+            "id": 15,
+            "titulo": "A Traves de las Puertas",
+            "portada": "./images/EnBusca.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1931 - 1936",
+            "sinopsis": "Un estudiante de viaje que está haciendo un recorrido para comprar antigüedades en Nueva Inglaterra,va hacia el puerto de Innsmouth. Allí interactúa con extrañas personas del pueblo y es testigo de eventos perturbadores.",
+            "enlace": "#"
+        },
+        {
+            "id": 16,
+            "titulo": "A Traves de las Puertas",
+            "portada": "./images/EnBusca.jpg",
+            "autor": "Lovecraft",
+            "publicado": "Fantasy Publishing",
+            "fecha": "1931 - 1936",
+            "sinopsis": "Un estudiante de viaje que está haciendo un recorrido para comprar antigüedades en Nueva Inglaterra,va hacia el puerto de Innsmouth. Allí interactúa con extrañas personas del pueblo y es testigo de eventos perturbadores.",
+            "enlace": "#"
+        }
+        
+    ]

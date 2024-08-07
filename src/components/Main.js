@@ -1,13 +1,15 @@
 import React, { useState } from "react";
 import Card from "./Card";
+import data from './libros.json';
 
 const Main = () => {
     const [search, setsearch] = useState("");
-    const searchBook = (evet) => {
-        if (evet.key === "Enter") {
-            console.log("hello");
-        }
-    }
+    // const [bookData, setData]=useState([]);
+    // const searchBook = (evet) => {
+    //     if (evet.key === "Enter") {
+
+    //     }
+    // }
     return (
         <>
             <div className="header">
@@ -19,26 +21,18 @@ const Main = () => {
                     <div className="search">
                         <input type="text" placeholder="Introduce el nombre de tu libro"
                             value={search}
-                            onChange={e => setsearch(e.target.value)}
-                            onKeyPress={searchBook} />
+                            onChange={e => setsearch(e.target.value)} />
                         <button><i class="fa-solid fa-magnifying-glass"></i></button>
                     </div>
                     <img src="./images/bg2.png" alt="" />
                 </div>
             </div>
             <div className="container">
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
+                {
+                    data.map(libro => <Card
+                        props={libro}
+                        />)
+                }
             </div>
         </>
     )
