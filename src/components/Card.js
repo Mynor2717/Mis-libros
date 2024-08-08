@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Modal from './Modal';
-import datos from './libros.json';
 
 const Card = ({ props }) => {
 

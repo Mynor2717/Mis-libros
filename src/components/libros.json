@@ -8,7 +8,7 @@
             "publicado": "Fantasy Publishing",
             "fecha": "1931 - 1936",
             "sinopsis": "Un estudiante de viaje que está haciendo un recorrido para comprar antigüedades en Nueva Inglaterra,va hacia el puerto de Innsmouth. Allí interactúa con extrañas personas del pueblo y es testigo de eventos perturbadores.",
-            "enlace": "#"
+            "enlace": "https://web.seducoahuila.gob.mx/biblioweb/upload/Lovecraft,%20H.P.%20-%20La%20Sombra%20Sobre%20Innsmouth.pdf"
         },
         {
             "id": 2,
@@ -29,7 +29,7 @@
             "publicado": "Fantasy Publishing",
             "fecha": "1922",
             "sinopsis": "La Tumba narra la historia de Jervas Dudley, quien descubre de niño el mausoleo de la familia Hyde, cuya mansión se quemó hace años. Tras intentar abrir el mausoleo sin éxito, toma la costumbre de dormir junto a él.",
-            "enlace": "#"
+            "enlace": "https://web.seducoahuila.gob.mx/biblioweb/upload/Lovecraft,%20H.P.%20-%20La%20Tumba.pdf"
         },
         {
             "id": 4,
@@ -39,7 +39,7 @@
             "publicado": "Fantasy Publishing",
             "fecha": "1931 - 1936",
             "sinopsis": "Traumatizado por la muerte atroz de su amigo, un hombre recuerda la sucesión de acontecimientos que lo han llevado al borde de la muerte.",
-            "enlace": "#"
+            "enlace": "https://editorial-alastor.blogspot.com/2020/07/h-p-lovecraft-el-sabueso.html"
         },
         {
             "id": 5,
@@ -58,7 +58,7 @@
             "autor": "Lovecraft",
             "publicado": "Fantasy Publishing",
             "fecha": "1931 - 1936",
-            "sinopsis": "El árbol (título original en inglés: The Tree) es un relato macabro del escritor norteamericano de terror H. P. Lovecraft. Ambientada en la antigua Grecia",
+            "sinopsis": "El árbol nos sitúa en la Antigua Grecia, y narra la historia de un extraño olivo que crece alrededor de una tumba de mármol. El árbol es gigantesco y su forma recuerda a la de un hombre horriblemente deformado.El tirano local encarga una estatua majestuosa a dos escultores, Kalos y Musides, pero su aceptación traerá consecuencias desgraciadas e irónicas sobre los artistas al acometer dicho encargo en ese preciso lugar.",
             "enlace": "#"
         },
         {
@@ -133,32 +133,32 @@
         }, 
         {
             "id": 14,
-            "titulo": "A Traves de las Puertas",
-            "portada": "./images/EnBusca.jpg",
+            "titulo": "El Modelo de Pickman",
+            "portada": "./images/Pickman.jpg",
             "autor": "Lovecraft",
             "publicado": "Fantasy Publishing",
             "fecha": "1931 - 1936",
-            "sinopsis": "Un estudiante de viaje que está haciendo un recorrido para comprar antigüedades en Nueva Inglaterra,va hacia el puerto de Innsmouth. Allí interactúa con extrañas personas del pueblo y es testigo de eventos perturbadores.",
-            "enlace": "#"
+            "sinopsis": "El modelo de Pickman, está narrado por un amigo del famoso pintor desaparecido, y que nos va contando algo que pocos saben y que él mismo se niega a creer o le asusta pensar en la posibilidad de que sea real.",
+            "enlace": "https://web.seducoahuila.gob.mx/biblioweb/upload/Lovecraft,%20H.P.%20-%20El%20Modelo%20de%20Pickman.pdf"
         },
         {
             "id": 15,
-            "titulo": "A Traves de las Puertas",
-            "portada": "./images/EnBusca.jpg",
+            "titulo": "Nyarlathotep",
+            "portada": "./images/Nyar.jpg",
             "autor": "Lovecraft",
             "publicado": "Fantasy Publishing",
             "fecha": "1931 - 1936",
-            "sinopsis": "Un estudiante de viaje que está haciendo un recorrido para comprar antigüedades en Nueva Inglaterra,va hacia el puerto de Innsmouth. Allí interactúa con extrañas personas del pueblo y es testigo de eventos perturbadores.",
+            "sinopsis": "Nyarlathotep, el Caos Reptante es un Dios Exterior recurrente en Los Mitos de Cthulhu. Aparece en un gran número de sus relatos y se desconoce cuál es su forma original, pues adopta una apariencia u otra en función de sus propósitos.",
             "enlace": "#"
         },
         {
             "id": 16,
-            "titulo": "A Traves de las Puertas",
-            "portada": "./images/EnBusca.jpg",
+            "titulo": "La llamada de cthulhu",
+            "portada": "./images/Cu.jpg",
             "autor": "Lovecraft",
             "publicado": "Fantasy Publishing",
             "fecha": "1931 - 1936",
-            "sinopsis": "Un estudiante de viaje que está haciendo un recorrido para comprar antigüedades en Nueva Inglaterra,va hacia el puerto de Innsmouth. Allí interactúa con extrañas personas del pueblo y es testigo de eventos perturbadores.",
+            "sinopsis": "En los archivos del venerable profesor Angell, su sobrino, Francis Thurston, descubrió unos documentos que revelaban una serie de pesquisas iniciadas con el objetivo de explicar algunos fenómenos estremecedores, entre los que se cuentan una colección de sueños inquietantes, diversos brotes de locura o una tablilla de arcilla con una monstruosa figura esculpida.",
             "enlace": "#"
         }
         

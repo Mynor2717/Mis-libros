@@ -244,3 +244,16 @@ html {
         width: 280px;
     }
 }
+
+@media (width <= 358px) {
+    
+    .container {
+       width: 208px;
+       display: flex;
+       flex-direction: column;
+    }
+
+    .card {
+        width: 300px;
+    }
+}
