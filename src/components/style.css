@@ -253,6 +253,10 @@ html {
        flex-direction: column;
     }
 
+    .row1 h1 {
+        font-size: 18px;
+    }
+
     .card {
         width: 300px;
     }
