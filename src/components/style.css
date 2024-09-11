@@ -26,7 +26,7 @@ html {
 
 .header {
     width: 100%;
-    height: 500px;
+    height: 320px;
     color: var(--secundary-color);
     box-shadow: 0 5px 10px var(--linea);
     display: flex;
@@ -99,7 +99,7 @@ html {
 }
 
 .container {
-    width: 75%;
+    width: 45%;
     margin: 0 auto;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -232,11 +232,21 @@ html {
     font-size: 13px;
 }
 
-@media (width >=1650px) {}
 
-@media (width >=2200px) {
+
+@media (width >= 4000px) {
 
     .container {
+        width: 40%;
+    }
+
+    .card {
+        width: 280px;
+    }
+}
+
+@media (width <= 2500px ){
+    .container { 
         width: 60%;
     }
 
